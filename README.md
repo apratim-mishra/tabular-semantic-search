@@ -1,7 +1,4 @@
-<div align="center">
-  <h1>Hands-on Amazon Tabular Semantic Search</h1>
-  <p class="tagline">Open-source series by <a href="https://decodingml.substack.com">Decoding ML</a> in collaboration with <a href="https://rebrand.ly/superlinked-homepage">Superlinked</a> and <a href="https://rebrand.ly/mongo-atlas-vector-search">MongoDB</a>.</p>
-</div>
+
 
 <p align="center">
   <img src="assets/architecture_1.png" alt="architecture_1" width="600">
