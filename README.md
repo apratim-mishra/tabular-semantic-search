@@ -1,8 +1,4 @@
-
-
-## 🎯 What You'll Build
-
-📚 Tutorial on building a modern search app for Amazon e-commerce products leveraging tabular semantic search and natural language queries.
+Building a modern search app for Amazon e-commerce products leveraging tabular semantic search and natural language queries.
 
 <div align="center">
   <table>
@@ -33,20 +29,6 @@
 
 Perfect for developers building search functionality in e-commerce or structured data applications.
 
-## 🎓 Prerequisites
-
-| Category | Requirements |
-|----------|-------------|
-| **Skills** | Basic knowledge of Python. |
-| **Hardware** | Any modern laptop/workstation will do the job (no GPU or powerful computing power required). |
-| **Level** | Beginner |
-
-## 💰 Cost Structure
-
-All tools used throughout the course will stick to their free tier, except OpenAI's API, which will cost you <1$ to run all our examples.
-
-
-## 📚 Articles
 
 Our recommendation for each article:
 
@@ -80,9 +62,5 @@ We will use the [ESCI-S: extended metadata for Amazon ESCI dataset](https://gith
 It is an e-commerce dataset on Amazon products. 
 
 The full dataset references ~1.8M unique products. We will work with a sample of 4400 products to make everything lighter, but the code is compatible with the whole dataset.
-
-📚 Read more on the [ESCI-S dataset](https://github.com/shuttie/esci-s?tab=readme-ov-file)
-
-💻 Explore it in our [Dataset Exploration](1_eda.ipynb) Notebook.
 
 
