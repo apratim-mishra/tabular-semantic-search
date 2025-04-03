@@ -1,9 +1,5 @@
 
 
-<p align="center">
-  <img src="assets/architecture_1.png" alt="architecture_1" width="600">
-</p>
-
 ## 🎯 What You'll Build
 
 📚 Tutorial on building a modern search app for Amazon e-commerce products leveraging tabular semantic search and natural language queries.
@@ -58,34 +54,7 @@ Our recommendation for each article:
 - Run the Notebook and the code using the [INSTALL_AND_USAGE](INSTALL_AND_USAGE.md) docs.
 - Go deeper into the code
 
-| No. | Article | Description | Notebooks | Python code |
-|--------|---------|-------------|-----------------|-----------------|
-| 1 | [Natural Queries for E-commerce with Tabular Semantic Search](https://decodingml.substack.com/p/forget-text-to-sql-use-this-natural) | Learn to build a tabular semantic search RESTful API server for Amazon e-commerce products using natural language queries. | • [1_eda.ipynb](1_eda.ipynb)</br>• [2_tabular_semantic_search_superlinked.ipynb](2_tabular_semantic_search_superlinked.ipynb) | `superlinked_app` |
-| 2 | [Text-to-SQL vs Tabular Semantic Search: The Future of Search](https://decodingml.substack.com/p/stop-using-text-to-sql-for-search) | Deep dive into how tabular semantic search with multi-attribute vector indexes works and what it offers in addition to text-to-SQL strategies. | • [3_tabular_semantic_search_text_to_sql.ipynb](3_tabular_semantic_search_text_to_sql.ipynb) | `superlinked_app` |
 
-----
-
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="20%" style="border: none;">
-      <a href="https://decodingml.substack.com/" aria-label="Decoding ML">
-        <img src="https://github.com/user-attachments/assets/f2f2f9c0-54b7-4ae3-bf8d-23a359c86982" alt="Decoding ML Logo" width="150"/>
-      </a>
-    </td>
-    <td width="80%" style="border: none;">
-      <div>
-        <h2>📬 Stay Updated</h2>
-        <p><b><a href="https://decodingml.substack.com/">Join Decoding ML</a></b> for proven content on production-grade AI, GenAI, and information retrieval systems. Every week, straight to your inbox.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://decodingml.substack.com/">
-    <img src="https://img.shields.io/static/v1?label&logo=substack&message=Subscribe Now&style=for-the-badge&color=black&scale=2" alt="Subscribe Now" height="40">
-  </a>
-</p>
 
 ## 🏗️ Project Structure
 
@@ -116,54 +85,4 @@ The full dataset references ~1.8M unique products. We will work with a sample of
 
 💻 Explore it in our [Dataset Exploration](1_eda.ipynb) Notebook.
 
-
-## 🚀 Getting Started
-
-For detailed installation and usage instructions, see our [INSTALL_AND_USAGE](INSTALL_AND_USAGE.md) guide.
-
-**Recommendation:** While you can follow the installation guide directly, we strongly recommend reading the accompanying articles to gain a complete understanding of the series.
-
-<p align="center">
-  <img src="assets/streamlit_app_example.png" alt="streamlit_app_example" width="600">
-</p>
-
-## 💡 Questions and Troubleshooting
-
-Have questions or running into issues? We're here to help!
-
-Open a [GitHub issue](https://github.com/decodingml/hands-on-retrieval/issues) for:
-- Questions about the series material
-- Technical troubleshooting
-- Clarification on concepts
-
-## Sponsors
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://rebrand.ly/superlinked-homepage" target="_blank">Superlinked</a>
-    </td>
-    <td align="center">
-      <a href="https://rebrand.ly/mongo-atlas-vector-search" target="_blank">MongoDB</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://rebrand.ly/superlinked-homepage" target="_blank">
-        <img src="assets/superlinked.png" height="55" alt="Superlinked">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://rebrand.ly/mongo-atlas-vector-search" target="_blank">
-        <img src="assets/mongo.png" height="55" alt="Mongo">
-      </a>
-    </td>
-  </tr>
-</table>
-
-## License
-
-This course is an open-source project released under the MIT license. Thus, as long you distribute our LICENSE and acknowledge your project is based on our work, you can safely clone or fork this project and use it as a source of inspiration for your educational projects (e.g., university, college degree, personal projects, etc.).
-
-----
 
